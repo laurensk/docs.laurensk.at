@@ -44,15 +44,15 @@ module.exports = {
           items: [
             {
               label: 'Privacy',
-              href: '/',
+              href: 'https://legal.laurensk.at/privacy-policy/',
             },
             {
               label: 'Terms',
-              href: '/',
+              href: 'https://legal.laurensk.at/terms-and-conditions/',
             },
             {
               label: 'Imprint',
-              href: '/',
+              href: 'https://legal.laurensk.at/imprint/',
             },
           ],
         },
