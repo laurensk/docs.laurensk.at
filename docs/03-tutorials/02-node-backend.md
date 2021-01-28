@@ -146,8 +146,8 @@ app.listen(3001, () => console.log("Your backend is running!"));
 Routes are things your API can do. For this tutorial, we will only create a single route.
 There are multiple HTTP methods you can use. Here is an overview about the most common ones.
 
-- **GET**: Used to get data from the Backend.
-- **POST**: Used to create something on the Backend.
+- **GET**: Used to get data from the backend.
+- **POST**: Used to create something on the backend.
 - **PUT**: Used to edit something.
 - **DELETE**: This one is self explanatory.
 
